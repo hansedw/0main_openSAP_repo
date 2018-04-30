@@ -15,19 +15,7 @@
         "runnerId": "webapprunner",
         "id": 7754056,
         "displayName": "Run index.html",
-<<<<<<< Upstream, based on a585dbbd9f0c6032673ef62435567ac54ea458ee
-<<<<<<< Upstream, based on a585dbbd9f0c6032673ef62435567ac54ea458ee
-<<<<<<< Upstream, based on a585dbbd9f0c6032673ef62435567ac54ea458ee
         "lastRunTimeStamp": 1524769613914
-=======
-        "lastRunTimeStamp": 1524842234792
->>>>>>> 44a83db Douglas Adams quote
-=======
-        "lastRunTimeStamp": 1524842654402
->>>>>>> 047521a corrected D. Adams quote, added Gandhi quote.
-=======
-        "lastRunTimeStamp": 1524842738016
->>>>>>> d153356 .user.project.json too
       }
     }
   ]
